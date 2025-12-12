@@ -11,5 +11,5 @@
 - [Docker Web Project](ссылка_на_репо_2): Автоматизация сборки Docker-образа через GitHub Actions.
 
 ### Контакты
-[![Telegram](img.shields.io)](t.me)
+[![Telegram](img.shields.io)]([t.me](https://t.me/vick_zab))
 
