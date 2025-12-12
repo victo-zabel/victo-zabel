@@ -7,7 +7,7 @@
 - **OC:** Linux (Ubuntu)
 
 ### Мои проекты для портфолио:
-- [Smart Backup Script](ссылка_на_репо_1): Bash-скрипт с ротацией и уведомлениями в ТГ.
+- [Smart Backup Script](victo-zabel/smart-backup: Learning how to work with that stuff. This is smart backup with telegram integration. It could send any backup to user. https://share.google/T1SerXASdutmIQIKu): Bash-скрипт с ротацией и уведомлениями в ТГ.
 - [Docker Web Project](ссылка_на_репо_2): Автоматизация сборки Docker-образа через GitHub Actions.
 
 ### Контакты
