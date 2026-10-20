@@ -1,0 +1,70 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#071b16"/>
+      <stop offset="100%" stop-color="#173d2e"/>
+    </linearGradient>
+    <linearGradient id="peak" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8bc5a0"/>
+      <stop offset="100%" stop-color="#285e45"/>
+    </linearGradient>
+    <linearGradient id="forest" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#246347"/>
+      <stop offset="100%" stop-color="#071c16"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="420" fill="url(#sky)"/>
+
+  <g fill="#b8e8c7" opacity=".8">
+    <circle cx="95" cy="65" r="1.5"/>
+    <circle cx="205" cy="95" r="1.5"/>
+    <circle cx="355" cy="42" r="2"/>
+    <circle cx="510" cy="82" r="1.5"/>
+    <circle cx="665" cy="48" r="1.5"/>
+    <circle cx="835" cy="88" r="2"/>
+    <circle cx="925" cy="40" r="1.5"/>
+  </g>
+
+  <circle cx="820" cy="100" r="34" fill="#a9d9b7" opacity=".12"/>
+  <circle cx="820" cy="100" r="23" fill="#c4ebcf" opacity=".85"/>
+
+  <path d="M0 290 L130 130 L220 225 L350 90 L505 265 L650 120 L790 250 L900 145 L1000 235 V420 H0Z"
+        fill="#315e49"/>
+
+  <path d="M130 130 L165 178 L143 170 L130 188 L110 169 L95 175Z"
+        fill="#b7d9c0" opacity=".9"/>
+  <path d="M350 90 L395 154 L366 142 L350 164 L329 139 L308 151Z"
+        fill="#d0e7d3" opacity=".95"/>
+  <path d="M650 120 L684 165 L658 155 L645 175 L626 151 L610 160Z"
+        fill="#b7d9c0" opacity=".9"/>
+  <path d="M900 145 L925 178 L906 171 L894 188 L879 169 L865 179Z"
+        fill="#cce6d1" opacity=".9"/>
+
+  <path d="M0 325 L190 205 L335 320 L525 165 L720 325 L865 205 L1000 310 V420 H0Z"
+        fill="url(#peak)"/>
+
+  <path d="M525 165 L563 229 L532 215 L513 237 L491 213 L470 230Z"
+        fill="#d7ead9" opacity=".9"/>
+
+  <path d="M0 350 L180 285 L310 350 L465 270 L620 350 L800 275 L1000 355 V420 H0Z"
+        fill="#204d38"/>
+
+  <path d="M0 370 Q180 320 340 370 T680 360 T1000 365 V420 H0Z"
+        fill="#123526"/>
+
+  <g fill="url(#forest)">
+    <path d="M35 420 L65 340 L95 420Z"/>
+    <path d="M65 420 L102 315 L139 420Z"/>
+    <path d="M115 420 L146 345 L177 420Z"/>
+    <path d="M810 420 L845 320 L880 420Z"/>
+    <path d="M855 420 L895 295 L935 420Z"/>
+    <path d="M915 420 L947 335 L979 420Z"/>
+  </g>
+
+  <path d="M0 419 H1000" stroke="#80c49a" stroke-opacity=".65"/>
+
+  <text x="40" y="42" fill="#9bd9ad" font-family="monospace" font-size="12" letter-spacing="3">VICTORIA / ANDROID SYSTEMS</text>
+  <text x="40" y="385" fill="#e0f4e5" font-family="monospace" font-size="17" letter-spacing="2">BUILD • LEARN • EXPLORE</text>
+</svg>
